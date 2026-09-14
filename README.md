@@ -37,6 +37,14 @@ The run produced the full comparison table plus a skip list with reasons — 3 b
 - Issue trackers are goldmines: a 👍 count is a frequency statistic for free.
 - Tool blocked? Switch clients, not sources (curl, public APIs). The evidence bar never drops.
 
+## Honest limitations / 如实说明局限
+
+- Review sites and forums rate-limit bots; some evidence may come from search snippets instead of full threads — those citations are marked as such.
+- Reaction counts measure engagement, not market size; a quiet competitor may simply have no community.
+- English+Chinese covers our ecosystems; other markets (JP/KR/EU) are not sampled.
+
+评论站对爬虫限流；部分证据可能来自搜索摘要而非完整帖子——这类引用会明确标注。反应数衡量参与度而非市场规模。我们只覆盖中英两个生态。
+
 ## Install / 安装
 
 ```bash
