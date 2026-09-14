@@ -1,0 +1,15 @@
+{
+  "name": "competitor-recon",
+  "version": "0.2.0",
+  "description": "Complaint-driven competitor research: enumerate competitors, extract features/pricing/positioning plus cited user complaints from reviews, forums, and issue trackers, cluster the complaints, and deliver a comparison table with copy-worthy and skip lists.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenneyZhuang/competitor-recon.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
