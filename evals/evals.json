@@ -1,0 +1,23 @@
+{
+  "skill_name": "competitor-recon",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Do a quick competitor scan of Notion vs Obsidian for our pitch deck — pricing, target users, and what users complain about.",
+      "expected_output": "A comparison covering pricing (with region/currency noted), target segments from each product's own positioning, and recurring complaint themes from reviews with counts; every stat carries source and year.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "看看市面上记账 app 都怎么做收据识别功能的，我们下周要开会定方案",
+      "expected_output": "3-5 competitors with how each implements receipt capture (native OCR vs photo-upload vs partner API), pricing tier where the feature sits, and one line per competitor on what users complain about; no invented feature claims.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "compare the top 3 UK pool installation lead-gen sites for our expansion memo",
+      "expected_output": "Per-site: lead pricing model, review themes, and geographic coverage claims sourced to their own pages, with gaps labeled 'unknown' rather than guessed.",
+      "files": []
+    }
+  ]
+}

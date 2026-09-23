@@ -15,6 +15,10 @@ metadata:
 
 # Competitor Recon: look before you build
 
+## When to use
+
+Use when sizing a market before a pitch, comparing vendors for a memo, checking what features rivals ship at which price tier, or summarizing what users complain about across competing products. Do not use for financial due diligence or patent searches.
+
 Run competitor reconnaissance before building any feature. Building from a
 blank page repeats competitors' mistakes and misses their proven wins; the
 review sections of existing products are the cheapest requirements research
@@ -81,3 +85,10 @@ complaint with a working source link, the comparison table covers every
 competitor in the enumeration, and every item on the copy-worthy list traces
 to cited evidence while the skip list states why each direction failed the
 evidence bar.
+
+## Gotchas / 常见坑
+
+- Star ratings are a self-selected sample — weight recurring text themes over the average number.
+- Third-party 'market share' figures vary wildly by methodology; cite source and year or drop the number entirely.
+- A 'missing feature' may exist behind a higher pricing tier or an enterprise plan — check the pricing page before claiming a gap.
+- Pricing pages often show one region's price; capture currency and region or the comparison misleads.
